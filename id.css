@@ -20,7 +20,7 @@ body {
     font-family: Arial, sans-serif;
     padding: 15px;
     background-color: white;
-    z-index: -10;
+    z-index: 10;
 }
 
 /* Header Section - College Details */
