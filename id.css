@@ -10,7 +10,7 @@ body {
 .id-card {
     width: 300px; /* Adjust width */
     height: 500px; /* Adjust height */
-    background-image: url('mg007.jpg'); /* Replace with actual ID card background */
+    background-image: url('m007.jpg'); /* Replace with actual ID card background */
     background-size: cover;
     background-position: center;
     border-radius: 10px;
